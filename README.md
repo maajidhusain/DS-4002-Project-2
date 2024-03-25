@@ -55,6 +55,11 @@ We are writing our scripts in Jupyter notebooks for readability. Notable package
 │   ├── meta_historic.png
 │   ├── microsoft_historic.png
 │   ├── nvidia_historic.png
+│   ├── Apple_Future_Prediction.png
+│   ├── Google_Future_Prediction.png
+│   ├── META_Future_Prediction.png
+│   ├── Microsoft_Future_Prediction.png
+│   ├── NVIDIA_Future_Prediction.png
 ├── README.md
 └── SCRIPTS
     ├── analysis_plan.png
